@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 adadasdadsasdas
 
 master1
+
+dev1 
+
+dev2
+
